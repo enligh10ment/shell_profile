@@ -1,2 +1,2 @@
 On mac brew install coreutils
-gredlink -f filename.txt
+greadlink -f filename.txt
