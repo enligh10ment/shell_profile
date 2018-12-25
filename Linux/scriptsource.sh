@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 # This code is originally from http://stackoverflow.com/questions/59895/can-a-bash-script-tell-what-directory-its-stored-in
 
 # It is a useful one-liner which will give you the full directory name of the script no matter where it is being called from
