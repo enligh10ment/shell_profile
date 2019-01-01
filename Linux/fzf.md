@@ -1,5 +1,8 @@
-```git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
-~/.fzf/install```
+
+```
+git clone --depth 1 https://github.com/junegunn/fzf.git ~/.fzf
+~/.fzf/install
+```
 
 edit your .zshrc file:
   Go to the buttom of the file and you should see ```[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh```
