@@ -7,6 +7,7 @@ alias sudo='command sudo '
 alias g='git'
 alias less='less -R'
 alias pg='pgrep -fli'
+alias weather='curl wttr.in/Chicago'
 
 alias ..='cd ..'
 alias ...='cd ../..'
