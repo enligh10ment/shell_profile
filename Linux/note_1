@@ -1,3 +1,3 @@
 Just a quick note:
 add to `bash_profile` for mac `if [ -f "${HOME}/.bashrc" ]; then source "${HOME}/.bashrc"; fi`.
-Source file should be changed according your working shell. In my case I have to change it to a zsh.
+Source file should be changed according your working shell. In my case I have to change it to a zsh: source .zshrc
